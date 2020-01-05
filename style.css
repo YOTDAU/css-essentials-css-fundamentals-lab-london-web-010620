@@ -33,9 +33,6 @@ figcaption {
 }
 /* cannot get the bladdy featured property <p> to center! Dunno what to do!*/ 
 
-p {
-  text-align: center;
-}
 
 #details div{
   display: block;
