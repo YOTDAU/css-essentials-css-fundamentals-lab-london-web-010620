@@ -29,10 +29,11 @@ figcaption {
 
 #featured-property p{
   text-align: center;
+  align-content: center;
   width: 800px;
 }
-/* cannot get the bladdy featured property <p> to center! Dunno what to do!*/ 
 
+/* cannot get the bladdy featured property <p> to center! Dunno what to do!*/ 
 
 #details div{
   display: block;
